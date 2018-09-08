@@ -1,2 +1,2 @@
 # Bitiya
-Pre Bitiya-  Learn and Upload the Prerequisites!!
+Pre Bitiya-  Learn and Upload the Code!!
