@@ -2,8 +2,8 @@
 
 ### Sept 12, 2018
 * [x] Linked every member to Bitiya on Github
-* [] Working on AI speech recognition.
-* [] Installing Mycroft by getting help from Mycroft community
+* [ ] Working on AI speech recognition.
+* [ ] Installing Mycroft by getting help from Mycroft community
 
 ### Sept 11, 2018
 * [x] Formed the Bitiya Repo
