@@ -1,5 +1,10 @@
 ## Pre Bitiya learning Status
 
+### Sept 10, 2018
+* [x] learning from python developer course
+* [x] built a age finder app
+* [x] Register on mycraft
+
 ### Sept 12, 2018
 * [x] Linked every member to Bitiya on Github
 * [ ] Working on AI speech recognition.
