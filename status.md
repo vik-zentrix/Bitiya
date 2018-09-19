@@ -1,5 +1,16 @@
 ## Pre Bitiya learning Status
 
+### Sept 19, 2018
+* [x] learning from python developer course
+* [x] Study about supervised and unsupervised learning
+* [x] study about simple linear regression
+* [x] study about Multiple linear regression
+
+### Sept 18, 2018
+* [x] learning from python developer course
+* [x] Study about Scikit learn library
+* [x] install sklearn library
+
 ### Sept 17, 2018
 * [x] learning from python developer course
 * [x] Study about Scikit learn library
