@@ -1,7 +1,14 @@
 ## Pre Bitiya learning Status
 
+### Sept 25, 2018
+* [x] doing assignment that is given by Ram sir
+* [x] study about basic terminologies of NLP like tokenizing, stop wording and word stemming and coding also.
+* [x] study and coding practice with numpy, pandas and sklearn module.
+* [x] do coding practice of adding and slicing of new colo=umns in dataframe using pandas lib.
+
+
 ### Sept 24, 2018
-* [x] done assignment that is given by Ram sir
+* [x] doing assignment that is given by Ram sir
 * [x] coding of writing dataframe of CSV file using pandas lib
 * [x] study about the concept of sklearn module.
 
