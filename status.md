@@ -1,5 +1,22 @@
 ## Pre Bitiya learning Status
 
+### Sept 29, 2018
+* [x] 
+* [x] study and coding practice with numpy, pandas and sklearn module.
+
+### Sept 28, 2018
+* [x] continue with machine learning udacity course
+* [x] study and coding practice with numpy, pandas and sklearn module.
+
+### Sept 27, 2018
+* [x] study and implement decision tree clasifier on dataset and find accuracy
+* [x] study and coding practice with numpy, pandas and sklearn module.
+
+### Sept 26, 2018
+* [x] continue with machine learning udacity course
+* [x] coding practice on basic terminologies of NLP like tokenizing, stop wording and word stemming and coding also.
+* [x] study and coding practice with numpy, pandas and sklearn module.
+
 ### Sept 25, 2018
 * [x] doing assignment that is given by Ram sir
 * [x] study about basic terminologies of NLP like tokenizing, stop wording and word stemming and coding also.
