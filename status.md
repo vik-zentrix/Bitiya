@@ -1,7 +1,7 @@
 ## Pre Bitiya learning Status
 
 ### Sept 29, 2018
-* [x] 
+* [x] after finalise the team, i am in SST (Speech to Text) team start study about speech Recognition module
 * [x] study and coding practice with numpy, pandas and sklearn module.
 
 ### Sept 28, 2018
